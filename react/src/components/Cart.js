@@ -11,13 +11,10 @@ const Cart = () => {
     const [orderDetails, setOrderDetails] = useState({ firstName: '', lastName: '', phoneNumber: '' });
 
     useEffect(() => {
-        console.log('Cart state:', state.cart);
         if (state.cart.length > 0) {
             const ids = state.cart.map(item => item.id).join(',');
-            console.log('Fetching products with ids:', ids);
             axios.post('http://45.12.73.68:3555/products/multiple', { ids })
                 .then(response => {
-                    console.log('Fetched products:', response.data);
                     setProducts(response.data);
                 })
                 .catch(error => console.error("Ошибка при получении данных:", error));
@@ -25,7 +22,6 @@ const Cart = () => {
             setProducts([]);
         }
     }, [state.cart]);
-
 
     const handleQuantityChange = (id, quantity) => {
         dispatch({ type: 'UPDATE_QUANTITY', payload: { id, quantity: parseInt(quantity) } });
