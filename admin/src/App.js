@@ -5,7 +5,7 @@ import { CategoryList, CategoryEdit, CategoryCreate } from './categories';
 import { ProductList, ProductEdit, ProductCreate } from './products';
 import { OrderList, OrderEdit, OrderCreate } from './orders';
 
-const dataProvider = jsonServerProvider(' http://45.12.73.68:4333');
+const dataProvider = jsonServerProvider(' http://45.12.73.68:3555');
 
 const App = () => (
     <Admin dataProvider={dataProvider}>
