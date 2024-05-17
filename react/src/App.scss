@@ -670,7 +670,9 @@ img.pron{
   display: none;
 }
 @media screen and (max-width: 1300px) {
-
+  .swal2-container{
+    max-width: 100vw;
+  }
   .sosi{
     display: flex;
   }
