@@ -11,10 +11,10 @@ const Category = () => {
     useEffect(() => {
         const fetchCategory = async () => {
             try {
-                const categoryResponse = await axios.get(`http://localhost:3001/categories/${id}`);
+                const categoryResponse = await axios.get(`http://45.12.73.68:3555/categories/${id}`);
                 setCategory(categoryResponse.data);
 
-                const productsResponse = await axios.get(`http://localhost:3001/categories/${id}/products`);
+                const productsResponse = await axios.get(`http://45.12.73.68:3555/categories/${id}/products`);
                 setProducts(productsResponse.data);
             } catch (error) {
                 console.error("Ошибка при получении данных:", error);

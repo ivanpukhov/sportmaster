@@ -6,7 +6,7 @@ function ProductsList({ products }) {
             {products.map(product => (
                 <Link to={`/products/${product.id}`} className="product" key={product.id}>
                     <div className="product__photo">
-                        <img src={`http://localhost:3001${product.imageUrl}`} alt={product.name} />
+                        <img src={`http://45.12.73.68:3555${product.imageUrl}`} alt={product.name} />
                     </div>
                     <div className="product__name">
                         {product.name}

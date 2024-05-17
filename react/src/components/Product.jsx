@@ -12,7 +12,7 @@ const Product = () => {
     useEffect(() => {
         const fetchProduct = async () => {
             try {
-                const response = await axios.get(`http://localhost:3001/products/${id}`);
+                const response = await axios.get(`http://45.12.73.68:3555/products/${id}`);
                 setProduct(response.data);
             } catch (error) {
                 console.error("Ошибка при получении данных:", error);
@@ -47,7 +47,7 @@ const Product = () => {
             <div className="prod">
                 <div>
                     <h1 className='h1'>{product.name}</h1>
-                    <img src={'http://localhost:3001' + product.imageUrl} alt={product.name} />
+                    <img src={'http://45.12.73.68:3555' + product.imageUrl} alt={product.name} />
                 </div>
                 <div>
                     <p className='product__price'>{product.price} ₸</p>

@@ -15,7 +15,7 @@ const Cart = () => {
         if (state.cart.length > 0) {
             const ids = state.cart.map(item => item.id).join(',');
             console.log('Fetching products with ids:', ids);
-            axios.post('http://localhost:3001/products/multiple', { ids })
+            axios.post('http://45.12.73.68:3555/products/multiple', { ids })
                 .then(response => {
                     console.log('Fetched products:', response.data);
                     setProducts(response.data);
@@ -42,7 +42,7 @@ const Cart = () => {
             const updatedCart = state.cart.filter(item => item.id !== id);
             const ids = updatedCart.map(item => item.id).join(',');
             if (ids) {
-                axios.post('http://localhost:3001/products/multiple', { ids })
+                axios.post('http://45.12.73.68:3555/products/multiple', { ids })
                     .then(response => {
                         setProducts(response.data);
                     })
@@ -58,7 +58,7 @@ const Cart = () => {
             ...orderDetails,
             items: state.cart.map(item => ({ productId: item.id, quantity: item.quantity }))
         };
-        axios.post('http://localhost:3001/orders', order)
+        axios.post('http://45.12.73.68:3555/orders', order)
             .then(response => {
                 Swal.fire({
                     title: 'Успех!',
@@ -91,7 +91,7 @@ const Cart = () => {
                         products.map(product => (
                             <div className='cart__item' key={product.id}>
                                 <h2>{product.name}</h2>
-                                <img src={'http://localhost:3001' + product.imageUrl} alt={product.name} />
+                                <img src={'http://45.12.73.68:3555' + product.imageUrl} alt={product.name} />
                                 <div className="cart__price">
                                     <p className='product__price'>{product.price} ₸</p>
                                     <input

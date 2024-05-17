@@ -8,7 +8,7 @@ const SearchResults = () => {
     const [results, setResults] = useState([]);
 
     useEffect(() => {
-        axios.get(`http://localhost:3001/search?query=${query}`)
+        axios.get(`http://45.12.73.68:3555/search?query=${query}`)
             .then(response => {
                 setResults(response.data || []);
             })

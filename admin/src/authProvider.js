@@ -3,7 +3,7 @@ import {useState} from "react";
 
 export const authProvider = {
     login: ({ username, password }) => {
-        const request = new Request('http://localhost:3001/login', {
+        const request = new Request('http://45.12.73.68:4333/login', {
             method: 'POST',
             body: JSON.stringify({ username, password }),
             headers: new Headers({ 'Content-Type': 'application/json' }),

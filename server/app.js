@@ -233,6 +233,6 @@ app.get('/search', async (req, res) => {
   res.json(products);
 });
 
-app.listen(3001, () => {
+app.listen(3555, () => {
   console.log('Server is running on port 3001');
 });
