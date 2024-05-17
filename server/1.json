@@ -1,0 +1,1448 @@
+[
+  {
+    "name": "Толстовка Nike",
+    "price": 5999.99,
+    "description": "Удобная толстовка Nike для занятий спортом и повседневной носки.",
+    "imageUrl": "/images/tolstovka_nike.jpg",
+    "categoryIds": [
+      1,
+      6
+    ]
+  },
+  {
+    "name": "Кеды Converse",
+    "price": 4499.99,
+    "description": "Классические кеды Converse для повседневной носки.",
+    "imageUrl": "/images/kedy_converse.jpg",
+    "categoryIds": [
+      2
+    ]
+  },
+  {
+    "name": "Легинсы Adidas",
+    "price": 2999.99,
+    "description": "Комфортные легинсы Adidas для занятий спортом.",
+    "imageUrl": "/images/leginsy_adidas.jpg",
+    "categoryIds": [
+      4
+    ]
+  },
+  {
+    "name": "Палатка Coleman",
+    "price": 15999.99,
+    "description": "Просторная палатка Coleman для кемпинга.",
+    "imageUrl": "/images/palatka_coleman.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Футболка Puma",
+    "price": 1999.99,
+    "description": "Качественная футболка Puma для спорта и отдыха.",
+    "imageUrl": "/images/futbolka_puma.jpg",
+    "categoryIds": [
+      6
+    ]
+  },
+  {
+    "name": "Рюкзак Deuter",
+    "price": 8999.99,
+    "description": "Прочный и вместительный рюкзак Deuter для треккинга.",
+    "imageUrl": "/images/ryukzak_deuter.jpg",
+    "categoryIds": [
+      9,
+      25
+    ]
+  },
+  {
+    "name": "Массажер Xiaomi",
+    "price": 4999.99,
+    "description": "Эффективный массажер Xiaomi для расслабления мышц.",
+    "imageUrl": "/images/massager_xiaomi.jpg",
+    "categoryIds": [
+      10
+    ]
+  },
+  {
+    "name": "Электросамокат Xiaomi",
+    "price": 35999.99,
+    "description": "Удобный электросамокат Xiaomi для городских поездок.",
+    "imageUrl": "/images/samokat_xiaomi.jpg",
+    "categoryIds": [
+      11,
+      24
+    ]
+  },
+  {
+    "name": "Фонарь Fenix",
+    "price": 2499.99,
+    "description": "Мощный фонарь Fenix для активного отдыха и туризма.",
+    "imageUrl": "/images/fonar_fenix.jpg",
+    "categoryIds": [
+      12
+    ]
+  },
+  {
+    "name": "Кроссовки для бега Asics",
+    "price": 6999.99,
+    "description": "Легкие и удобные кроссовки Asics для бега.",
+    "imageUrl": "/images/krossovki_asics.jpg",
+    "categoryIds": [
+      2,
+      13
+    ]
+  },
+  {
+    "name": "Перчатки для бокса Everlast",
+    "price": 3999.99,
+    "description": "Качественные перчатки для бокса Everlast.",
+    "imageUrl": "/images/perchatki_everlast.jpg",
+    "categoryIds": [
+      14
+    ]
+  },
+  {
+    "name": "Йога-мат Manduka",
+    "price": 2999.99,
+    "description": "Удобный и прочный йога-мат Manduka.",
+    "imageUrl": "/images/yoga_mat_manduka.jpg",
+    "categoryIds": [
+      27
+    ]
+  },
+  {
+    "name": "Велосипед Merida",
+    "price": 34999.99,
+    "description": "Качественный велосипед Merida для велоспорта.",
+    "imageUrl": "/images/velosiped_merida.jpg",
+    "categoryIds": [
+      26
+    ]
+  },
+  {
+    "name": "Мяч для футбола Adidas",
+    "price": 2499.99,
+    "description": "Профессиональный мяч для футбола Adidas.",
+    "imageUrl": "/images/myach_adidas.jpg",
+    "categoryIds": [
+      16
+    ]
+  },
+  {
+    "name": "Носки Nike",
+    "price": 499.99,
+    "description": "Комфортные и прочные носки Nike.",
+    "imageUrl": "/images/noski_nike.jpg",
+    "categoryIds": [
+      8
+    ]
+  },
+  {
+    "name": "Комплект для плавания Speedo",
+    "price": 5999.99,
+    "description": "Комплект для плавания Speedo, включающий очки и шапочку.",
+    "imageUrl": "/images/komplekt_speedo.jpg",
+    "categoryIds": [
+      21
+    ]
+  },
+  {
+    "name": "Куртка для треккинга Columbia",
+    "price": 12999.99,
+    "description": "Водонепроницаемая куртка для треккинга Columbia.",
+    "imageUrl": "/images/kurtka_columbia.jpg",
+    "categoryIds": [
+      25
+    ]
+  },
+  {
+    "name": "Ролики Rollerblade",
+    "price": 8999.99,
+    "description": "Качественные ролики Rollerblade для активного отдыха.",
+    "imageUrl": "/images/roliki_rollerblade.jpg",
+    "categoryIds": [
+      23
+    ]
+  },
+  {
+    "name": "Тренажер для фитнеса Weider",
+    "price": 19999.99,
+    "description": "Многофункциональный тренажер для фитнеса Weider.",
+    "imageUrl": "/images/trenazher_weider.jpg",
+    "categoryIds": [
+      15
+    ]
+  },
+  {
+    "name": "Лыжи для горных лыж Salomon",
+    "price": 24999.99,
+    "description": "Высококачественные лыжи для горных лыж Salomon.",
+    "imageUrl": "/images/lyzhi_salomon.jpg",
+    "categoryIds": [
+      17
+    ]
+  },
+  {
+    "name": "Куртка для хоккея Bauer",
+    "price": 9999.99,
+    "description": "Прочная куртка для хоккея Bauer.",
+    "imageUrl": "/images/kurtka_bauer.jpg",
+    "categoryIds": [
+      18
+    ]
+  },
+  {
+    "name": "Палатка Quechua",
+    "price": 11999.99,
+    "description": "Удобная и вместительная палатка Quechua для кемпинга.",
+    "imageUrl": "/images/palatka_quechua.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Лыжи для беговых лыж Fischer",
+    "price": 19999.99,
+    "description": "Легкие и прочные лыжи для беговых лыж Fischer.",
+    "imageUrl": "/images/lyzhi_fischer.jpg",
+    "categoryIds": [
+      20
+    ]
+  },
+  {
+    "name": "Кресло для кемпинга Helinox",
+    "price": 7999.99,
+    "description": "Удобное и легкое кресло для кемпинга Helinox.",
+    "imageUrl": "/images/kreslo_helinox.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Сумка для спорта Nike",
+    "price": 3499.99,
+    "description": "Просторная спортивная сумка Nike.",
+    "imageUrl": "/images/sumka_nike.jpg",
+    "categoryIds": [
+      7
+    ]
+  },
+  {
+    "name": "Комплект для пляжа Decathlon",
+    "price": 2999.99,
+    "description": "Комплект для пляжа Decathlon, включающий зонтик и полотенце.",
+    "imageUrl": "/images/komplekt_decathlon.jpg",
+    "categoryIds": [
+      22
+    ]
+  },
+  {
+    "name": "Толстовка Adidas",
+    "price": 6500.00,
+    "description": "Стильная и теплая толстовка Adidas для повседневного ношения.",
+    "imageUrl": "/images/tolstovka_adidas.jpg",
+    "categoryIds": [
+      1,
+      6
+    ]
+  },
+  {
+    "name": "Кеды Vans",
+    "price": 5000.00,
+    "description": "Комфортные и стильные кеды Vans для ежедневного использования.",
+    "imageUrl": "/images/kedy_vans.jpg",
+    "categoryIds": [
+      2
+    ]
+  },
+  {
+    "name": "Легинсы Nike",
+    "price": 3000.00,
+    "description": "Эластичные и удобные легинсы Nike для фитнеса и йоги.",
+    "imageUrl": "/images/leginsy_nike.jpg",
+    "categoryIds": [
+      4
+    ]
+  },
+  {
+    "name": "Палатка Naturehike",
+    "price": 18000.00,
+    "description": "Легкая и надежная палатка Naturehike для кемпинга.",
+    "imageUrl": "/images/palatka_naturehike.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Футболка Reebok",
+    "price": 2200.00,
+    "description": "Дышащая футболка Reebok для тренировок и отдыха.",
+    "imageUrl": "/images/futbolka_reebok.jpg",
+    "categoryIds": [
+      6
+    ]
+  },
+  {
+    "name": "Рюкзак Osprey",
+    "price": 9500.00,
+    "description": "Удобный и вместительный рюкзак Osprey для путешествий.",
+    "imageUrl": "/images/ryukzak_osprey.jpg",
+    "categoryIds": [
+      9,
+      25
+    ]
+  },
+  {
+    "name": "Массажер Omron",
+    "price": 5500.00,
+    "description": "Электрический массажер Omron для снятия напряжения и боли в мышцах.",
+    "imageUrl": "/images/massager_omron.jpg",
+    "categoryIds": [
+      10
+    ]
+  },
+  {
+    "name": "Электросамокат Segway",
+    "price": 40000.00,
+    "description": "Современный электросамокат Segway для удобного передвижения по городу.",
+    "imageUrl": "/images/samokat_segway.jpg",
+    "categoryIds": [
+      11,
+      24
+    ]
+  },
+  {
+    "name": "Фонарь Ledlenser",
+    "price": 2700.00,
+    "description": "Мощный и компактный фонарь Ledlenser для активного отдыха.",
+    "imageUrl": "/images/fonar_ledlenser.jpg",
+    "categoryIds": [
+      12
+    ]
+  },
+  {
+    "name": "Кроссовки для бега Nike",
+    "price": 7500.00,
+    "description": "Высококачественные кроссовки Nike для бега и тренировок.",
+    "imageUrl": "/images/krossovki_nike.jpg",
+    "categoryIds": [
+      2,
+      13
+    ]
+  },
+  {
+    "name": "Перчатки для бокса Twins",
+    "price": 4200.00,
+    "description": "Профессиональные перчатки для бокса Twins.",
+    "imageUrl": "/images/perchatki_twins.jpg",
+    "categoryIds": [
+      14
+    ]
+  },
+  {
+    "name": "Коврик для йоги Liforme",
+    "price": 3200.00,
+    "description": "Экологичный и нескользящий коврик для йоги Liforme.",
+    "imageUrl": "/images/yoga_mat_liforme.jpg",
+    "categoryIds": [
+      27
+    ]
+  },
+  {
+    "name": "Велосипед Trek",
+    "price": 38000.00,
+    "description": "Надежный и легкий велосипед Trek для велоспорта.",
+    "imageUrl": "/images/velosiped_trek.jpg",
+    "categoryIds": [
+      26
+    ]
+  },
+  {
+    "name": "Футбольный мяч Puma",
+    "price": 2700.00,
+    "description": "Прочный и стильный футбольный мяч Puma.",
+    "imageUrl": "/images/myach_puma.jpg",
+    "categoryIds": [
+      16
+    ]
+  },
+  {
+    "name": "Носки Puma",
+    "price": 600.00,
+    "description": "Комфортные и износостойкие носки Puma.",
+    "imageUrl": "/images/noski_puma.jpg",
+    "categoryIds": [
+      8
+    ]
+  },
+  {
+    "name": "Комплект для плавания Arena",
+    "price": 6500.00,
+    "description": "Комплект для плавания Arena с очками и шапочкой.",
+    "imageUrl": "/images/komplekt_arena.jpg",
+    "categoryIds": [
+      21
+    ]
+  },
+  {
+    "name": "Куртка для треккинга North Face",
+    "price": 14000.00,
+    "description": "Водонепроницаемая куртка для треккинга North Face.",
+    "imageUrl": "/images/kurtka_north_face.jpg",
+    "categoryIds": [
+      25
+    ]
+  },
+  {
+    "name": "Ролики K2",
+    "price": 9500.00,
+    "description": "Качественные ролики K2 для активного отдыха.",
+    "imageUrl": "/images/roliki_k2.jpg",
+    "categoryIds": [
+      23
+    ]
+  },
+  {
+    "name": "Тренажер для фитнеса Bowflex",
+    "price": 21000.00,
+    "description": "Многофункциональный тренажер для фитнеса Bowflex.",
+    "imageUrl": "/images/trenazher_bowflex.jpg",
+    "categoryIds": [
+      15
+    ]
+  },
+  {
+    "name": "Лыжи для горных лыж Atomic",
+    "price": 26000.00,
+    "description": "Высококачественные лыжи для горных лыж Atomic.",
+    "imageUrl": "/images/lyzhi_atomic.jpg",
+    "categoryIds": [
+      17
+    ]
+  },
+  {
+    "name": "Куртка для хоккея CCM",
+    "price": 10500.00,
+    "description": "Прочная куртка для хоккея CCM.",
+    "imageUrl": "/images/kurtka_ccm.jpg",
+    "categoryIds": [
+      18
+    ]
+  },
+  {
+    "name": "Палатка Marmot",
+    "price": 12500.00,
+    "description": "Просторная и легкая палатка Marmot для кемпинга.",
+    "imageUrl": "/images/palatka_marmot.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Лыжи для беговых лыж Rossignol",
+    "price": 21000.00,
+    "description": "Легкие и прочные лыжи для беговых лыж Rossignol.",
+    "imageUrl": "/images/lyzhi_rossignol.jpg",
+    "categoryIds": [
+      20
+    ]
+  },
+  {
+    "name": "Кресло для кемпинга Trekology",
+    "price": 8500.00,
+    "description": "Удобное и компактное кресло для кемпинга Trekology.",
+    "imageUrl": "/images/kreslo_trekology.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Сумка для спорта Reebok",
+    "price": 3700.00,
+    "description": "Просторная и стильная спортивная сумка Reebok.",
+    "imageUrl": "/images/sumka_reebok.jpg",
+    "categoryIds": [
+      7
+    ]
+  },
+  {
+    "name": "Комплект для пляжа Intex",
+    "price": 3200.00,
+    "description": "Комплект для пляжа Intex с надувным матрасом и зонтиком.",
+    "imageUrl": "/images/komplekt_intex.jpg",
+    "categoryIds": [
+      22
+    ]
+  },
+  {
+    "name": "Толстовка Puma",
+    "price": 6200.00,
+    "description": "Теплая и стильная толстовка Puma для повседневной носки.",
+    "imageUrl": "/images/tolstovka_puma.jpg",
+    "categoryIds": [
+      1,
+      6
+    ]
+  },
+  {
+    "name": "Кеды New Balance",
+    "price": 5400.00,
+    "description": "Комфортные и стильные кеды New Balance для повседневной носки.",
+    "imageUrl": "/images/kedy_new_balance.jpg",
+    "categoryIds": [
+      2
+    ]
+  },
+  {
+    "name": "Легинсы Reebok",
+    "price": 3100.00,
+    "description": "Эластичные и удобные легинсы Reebok для занятий спортом.",
+    "imageUrl": "/images/leginsy_reebok.jpg",
+    "categoryIds": [
+      4
+    ]
+  },
+  {
+    "name": "Палатка MSR",
+    "price": 19000.00,
+    "description": "Легкая и надежная палатка MSR для кемпинга.",
+    "imageUrl": "/images/palatka_msr.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Футболка Nike",
+    "price": 2300.00,
+    "description": "Качественная и удобная футболка Nike для тренировок и отдыха.",
+    "imageUrl": "/images/futbolka_nike.jpg",
+    "categoryIds": [
+      6
+    ]
+  },
+  {
+    "name": "Рюкзак Thule",
+    "price": 9800.00,
+    "description": "Прочный и вместительный рюкзак Thule для путешествий.",
+    "imageUrl": "/images/ryukzak_thule.jpg",
+    "categoryIds": [
+      9,
+      25
+    ]
+  },
+  {
+    "name": "Массажер Beurer",
+    "price": 5700.00,
+    "description": "Электрический массажер Beurer для расслабления мышц.",
+    "imageUrl": "/images/massager_beurer.jpg",
+    "categoryIds": [
+      10
+    ]
+  },
+  {
+    "name": "Электросамокат Razor",
+    "price": 42000.00,
+    "description": "Мощный электросамокат Razor для городских поездок.",
+    "imageUrl": "/images/samokat_razor.jpg",
+    "categoryIds": [
+      11,
+      24
+    ]
+  },
+  {
+    "name": "Фонарь Black Diamond",
+    "price": 2800.00,
+    "description": "Компактный и яркий фонарь Black Diamond для активного отдыха.",
+    "imageUrl": "/images/fonar_black_diamond.jpg",
+    "categoryIds": [
+      12
+    ]
+  },
+  {
+    "name": "Кроссовки для бега New Balance",
+    "price": 7700.00,
+    "description": "Высококачественные кроссовки New Balance для бега.",
+    "imageUrl": "/images/krossovki_new_balance.jpg",
+    "categoryIds": [
+      2,
+      13
+    ]
+  },
+  {
+    "name": "Перчатки для бокса Cleto Reyes",
+    "price": 4300.00,
+    "description": "Профессиональные перчатки для бокса Cleto Reyes.",
+    "imageUrl": "/images/perchatki_cleto_reyes.jpg",
+    "categoryIds": [
+      14
+    ]
+  },
+  {
+    "name": "Коврик для йоги Jade Yoga",
+    "price": 3300.00,
+    "description": "Экологичный и нескользящий коврик для йоги Jade Yoga.",
+    "imageUrl": "/images/yoga_mat_jade_yoga.jpg",
+    "categoryIds": [
+      27
+    ]
+  },
+  {
+    "name": "Велосипед Cannondale",
+    "price": 39000.00,
+    "description": "Надежный и легкий велосипед Cannondale для велоспорта.",
+    "imageUrl": "/images/velosiped_cannondale.jpg",
+    "categoryIds": [
+      26
+    ]
+  },
+  {
+    "name": "Футбольный мяч Nike",
+    "price": 2800.00,
+    "description": "Прочный и стильный футбольный мяч Nike.",
+    "imageUrl": "/images/myach_nike.jpg",
+    "categoryIds": [
+      16
+    ]
+  },
+  {
+    "name": "Носки Reebok",
+    "price": 700.00,
+    "description": "Комфортные и износостойкие носки Reebok.",
+    "imageUrl": "/images/noski_reebok.jpg",
+    "categoryIds": [
+      8
+    ]
+  },
+  {
+    "name": "Комплект для плавания Speedo",
+    "price": 6600.00,
+    "description": "Комплект для плавания Speedo с очками и шапочкой.",
+    "imageUrl": "/images/komplekt_speedo.jpg",
+    "categoryIds": [
+      21
+    ]
+  },
+  {
+    "name": "Куртка для треккинга Patagonia",
+    "price": 15000.00,
+    "description": "Водонепроницаемая куртка для треккинга Patagonia.",
+    "imageUrl": "/images/kurtka_patagonia.jpg",
+    "categoryIds": [
+      25
+    ]
+  },
+  {
+    "name": "Ролики Seba",
+    "price": 9700.00,
+    "description": "Качественные ролики Seba для активного отдыха.",
+    "imageUrl": "/images/roliki_seba.jpg",
+    "categoryIds": [
+      23
+    ]
+  },
+  {
+    "name": "Тренажер для фитнеса ProForm",
+    "price": 22000.00,
+    "description": "Многофункциональный тренажер для фитнеса ProForm.",
+    "imageUrl": "/images/trenazher_proform.jpg",
+    "categoryIds": [
+      15
+    ]
+  },
+  {
+    "name": "Лыжи для горных лыж Head",
+    "price": 27000.00,
+    "description": "Высококачественные лыжи для горных лыж Head.",
+    "imageUrl": "/images/lyzhi_head.jpg",
+    "categoryIds": [
+      17
+    ]
+  },
+  {
+    "name": "Куртка для хоккея Warrior",
+    "price": 11000.00,
+    "description": "Прочная куртка для хоккея Warrior.",
+    "imageUrl": "/images/kurtka_warrior.jpg",
+    "categoryIds": [
+      18
+    ]
+  },
+  {
+    "name": "Палатка Kelty",
+    "price": 13000.00,
+    "description": "Просторная и легкая палатка Kelty для кемпинга.",
+    "imageUrl": "/images/palatka_kelty.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Лыжи для беговых лыж Madshus",
+    "price": 22000.00,
+    "description": "Легкие и прочные лыжи для беговых лыж Madshus.",
+    "imageUrl": "/images/lyzhi_madshus.jpg",
+    "categoryIds": [
+      20
+    ]
+  },
+  {
+    "name": "Кресло для кемпинга Big Agnes",
+    "price": 9000.00,
+    "description": "Удобное и компактное кресло для кемпинга Big Agnes.",
+    "imageUrl": "/images/kreslo_big_agnes.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Сумка для спорта Puma",
+    "price": 3800.00,
+    "description": "Просторная и стильная спортивная сумка Puma.",
+    "imageUrl": "/images/sumka_puma.jpg",
+    "categoryIds": [
+      7
+    ]
+  },
+  {
+    "name": "Комплект для пляжа Coleman",
+    "price": 3400.00,
+    "description": "Комплект для пляжа Coleman с надувным матрасом и зонтиком.",
+    "imageUrl": "/images/komplekt_coleman.jpg",
+    "categoryIds": [
+      22
+    ]
+  },
+  {
+    "name": "Толстовка Under Armour",
+    "price": 6700.00,
+    "description": "Теплая и стильная толстовка Under Armour для повседневной носки.",
+    "imageUrl": "/images/tolstovka_under_armour.jpg",
+    "categoryIds": [
+      1,
+      6
+    ]
+  },
+  {
+    "name": "Кеды Adidas",
+    "price": 5600.00,
+    "description": "Комфортные и стильные кеды Adidas для повседневной носки.",
+    "imageUrl": "/images/kedy_adidas.jpg",
+    "categoryIds": [
+      2
+    ]
+  },
+  {
+    "name": "Легинсы Puma",
+    "price": 3200.00,
+    "description": "Эластичные и удобные легинсы Puma для занятий спортом.",
+    "imageUrl": "/images/leginsy_puma.jpg",
+    "categoryIds": [
+      4
+    ]
+  },
+  {
+    "name": "Палатка Big Agnes",
+    "price": 20000.00,
+    "description": "Легкая и надежная палатка Big Agnes для кемпинга.",
+    "imageUrl": "/images/palatka_big_agnes.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Футболка Under Armour",
+    "price": 2400.00,
+    "description": "Качественная и удобная футболка Under Armour для тренировок и отдыха.",
+    "imageUrl": "/images/futbolka_under_armour.jpg",
+    "categoryIds": [
+      6
+    ]
+  },
+  {
+    "name": "Рюкзак Deuter",
+    "price": 10000.00,
+    "description": "Прочный и вместительный рюкзак Deuter для путешествий.",
+    "imageUrl": "/images/ryukzak_deuter.jpg",
+    "categoryIds": [
+      9,
+      25
+    ]
+  },
+  {
+    "name": "Массажер Theragun",
+    "price": 5900.00,
+    "description": "Электрический массажер Theragun для расслабления мышц.",
+    "imageUrl": "/images/massager_theragun.jpg",
+    "categoryIds": [
+      10
+    ]
+  },
+  {
+    "name": "Электросамокат Xiaomi",
+    "price": 43000.00,
+    "description": "Мощный электросамокат Xiaomi для городских поездок.",
+    "imageUrl": "/images/samokat_xiaomi.jpg",
+    "categoryIds": [
+      11,
+      24
+    ]
+  },
+  {
+    "name": "Фонарь Petzl",
+    "price": 2900.00,
+    "description": "Компактный и яркий фонарь Petzl для активного отдыха.",
+    "imageUrl": "/images/fonar_petzl.jpg",
+    "categoryIds": [
+      12
+    ]
+  },
+  {
+    "name": "Кроссовки для бега Saucony",
+    "price": 7900.00,
+    "description": "Высококачественные кроссовки Saucony для бега.",
+    "imageUrl": "/images/krossovki_saucony.jpg",
+    "categoryIds": [
+      2,
+      13
+    ]
+  },
+  {
+    "name": "Перчатки для бокса Hayabusa",
+    "price": 4400.00,
+    "description": "Профессиональные перчатки для бокса Hayabusa.",
+    "imageUrl": "/images/perchatki_hayabusa.jpg",
+    "categoryIds": [
+      14
+    ]
+  },
+  {
+    "name": "Коврик для йоги Prana",
+    "price": 3400.00,
+    "description": "Экологичный и нескользящий коврик для йоги Prana.",
+    "imageUrl": "/images/yoga_mat_prana.jpg",
+    "categoryIds": [
+      27
+    ]
+  },
+  {
+    "name": "Велосипед Scott",
+    "price": 40000.00,
+    "description": "Надежный и легкий велосипед Scott для велоспорта.",
+    "imageUrl": "/images/velosiped_scott.jpg",
+    "categoryIds": [
+      26
+    ]
+  },
+  {
+    "name": "Футбольный мяч Umbro",
+    "price": 2900.00,
+    "description": "Прочный и стильный футбольный мяч Umbro.",
+    "imageUrl": "/images/myach_umbro.jpg",
+    "categoryIds": [
+      16
+    ]
+  },
+  {
+    "name": "Носки Under Armour",
+    "price": 800.00,
+    "description": "Комфортные и износостойкие носки Under Armour.",
+    "imageUrl": "/images/noski_under_armour.jpg",
+    "categoryIds": [
+      8
+    ]
+  },
+  {
+    "name": "Комплект для плавания TYR",
+    "price": 6700.00,
+    "description": "Комплект для плавания TYR с очками и шапочкой.",
+    "imageUrl": "/images/komplekt_tyr.jpg",
+    "categoryIds": [
+      21
+    ]
+  },
+  {
+    "name": "Куртка для треккинга Arc'teryx",
+    "price": 16000.00,
+    "description": "Водонепроницаемая куртка для треккинга Arc'teryx.",
+    "imageUrl": "/images/kurtka_arcteryx.jpg",
+    "categoryIds": [
+      25
+    ]
+  },
+  {
+    "name": "Ролики Powerslide",
+    "price": 9900.00,
+    "description": "Качественные ролики Powerslide для активного отдыха.",
+    "imageUrl": "/images/roliki_powerslide.jpg",
+    "categoryIds": [
+      23
+    ]
+  },
+  {
+    "name": "Тренажер для фитнеса NordicTrack",
+    "price": 23000.00,
+    "description": "Многофункциональный тренажер для фитнеса NordicTrack.",
+    "imageUrl": "/images/trenazher_nordictrack.jpg",
+    "categoryIds": [
+      15
+    ]
+  },
+  {
+    "name": "Лыжи для горных лыж K2",
+    "price": 28000.00,
+    "description": "Высококачественные лыжи для горных лыж K2.",
+    "imageUrl": "/images/lyzhi_k2.jpg",
+    "categoryIds": [
+      17
+    ]
+  },
+  {
+    "name": "Куртка для хоккея CCM",
+    "price": 11500.00,
+    "description": "Прочная куртка для хоккея CCM.",
+    "imageUrl": "/images/kurtka_ccm.jpg",
+    "categoryIds": [
+      18
+    ]
+  },
+  {
+    "name": "Палатка Eureka",
+    "price": 13500.00,
+    "description": "Просторная и легкая палатка Eureka для кемпинга.",
+    "imageUrl": "/images/palatka_eureka.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Лыжи для беговых лыж Salomon",
+    "price": 23000.00,
+    "description": "Легкие и прочные лыжи для беговых лыж Salomon.",
+    "imageUrl": "/images/lyzhi_salomon.jpg",
+    "categoryIds": [
+      20
+    ]
+  },
+  {
+    "name": "Кресло для кемпинга Coleman",
+    "price": 9200.00,
+    "description": "Удобное и компактное кресло для кемпинга Coleman.",
+    "imageUrl": "/images/kreslo_coleman.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Сумка для спорта Nike",
+    "price": 4000.00,
+    "description": "Просторная и стильная спортивная сумка Nike.",
+    "imageUrl": "/images/sumka_nike.jpg",
+    "categoryIds": [
+      7
+    ]
+  },
+  {
+    "name": "Комплект для пляжа Speedo",
+    "price": 3600.00,
+    "description": "Комплект для пляжа Speedo с надувным матрасом и зонтиком.",
+    "imageUrl": "/images/komplekt_speedo.jpg",
+    "categoryIds": [
+      22
+    ]
+  },
+  {
+    "name": "Толстовка Columbia",
+    "price": 6900.00,
+    "description": "Теплая и стильная толстовка Columbia для повседневной носки.",
+    "imageUrl": "/images/tolstovka_columbia.jpg",
+    "categoryIds": [
+      1,
+      6
+    ]
+  },
+  {
+    "name": "Кеды Converse",
+    "price": 5800.00,
+    "description": "Комфортные и стильные кеды Converse для повседневной носки.",
+    "imageUrl": "/images/kedy_converse.jpg",
+    "categoryIds": [
+      2
+    ]
+  },
+  {
+    "name": "Легинсы Under Armour",
+    "price": 3300.00,
+    "description": "Эластичные и удобные легинсы Under Armour для занятий спортом.",
+    "imageUrl": "/images/leginsy_under_armour.jpg",
+    "categoryIds": [
+      4
+    ]
+  },
+  {
+    "name": "Палатка MSR",
+    "price": 21000.00,
+    "description": "Легкая и надежная палатка MSR для кемпинга.",
+    "imageUrl": "/images/palatka_msr.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Футболка Adidas",
+    "price": 2500.00,
+    "description": "Качественная и удобная футболка Adidas для тренировок и отдыха.",
+    "imageUrl": "/images/futbolka_adidas.jpg",
+    "categoryIds": [
+      6
+    ]
+  },
+  {
+    "name": "Рюкзак Osprey",
+    "price": 10200.00,
+    "description": "Прочный и вместительный рюкзак Osprey для путешествий.",
+    "imageUrl": "/images/ryukzak_osprey.jpg",
+    "categoryIds": [
+      9,
+      25
+    ]
+  },
+  {
+    "name": "Массажер Hypervolt",
+    "price": 6100.00,
+    "description": "Электрический массажер Hypervolt для расслабления мышц.",
+    "imageUrl": "/images/massager_hypervolt.jpg",
+    "categoryIds": [
+      10
+    ]
+  },
+  {
+    "name": "Электросамокат Segway",
+    "price": 45000.00,
+    "description": "Мощный электросамокат Segway для городских поездок.",
+    "imageUrl": "/images/samokat_segway.jpg",
+    "categoryIds": [
+      11,
+      24
+    ]
+  },
+  {
+    "name": "Фонарь Princeton Tec",
+    "price": 3000.00,
+    "description": "Компактный и яркий фонарь Princeton Tec для активного отдыха.",
+    "imageUrl": "/images/fonar_princeton_tec.jpg",
+    "categoryIds": [
+      12
+    ]
+  },
+  {
+    "name": "Кроссовки для бега Brooks",
+    "price": 8100.00,
+    "description": "Высококачественные кроссовки Brooks для бега.",
+    "imageUrl": "/images/krossovki_brooks.jpg",
+    "categoryIds": [
+      2,
+      13
+    ]
+  },
+  {
+    "name": "Перчатки для бокса Venum",
+    "price": 4500.00,
+    "description": "Профессиональные перчатки для бокса Venum.",
+    "imageUrl": "/images/perchatki_venum.jpg",
+    "categoryIds": [
+      14
+    ]
+  },
+  {
+    "name": "Коврик для йоги Gaiam",
+    "price": 3500.00,
+    "description": "Экологичный и нескользящий коврик для йоги Gaiam.",
+    "imageUrl": "/images/yoga_mat_gaiam.jpg",
+    "categoryIds": [
+      27
+    ]
+  },
+  {
+    "name": "Велосипед Giant",
+    "price": 42000.00,
+    "description": "Надежный и легкий велосипед Giant для велоспорта.",
+    "imageUrl": "/images/velosiped_giant.jpg",
+    "categoryIds": [
+      26
+    ]
+  },
+  {
+    "name": "Футбольный мяч Adidas",
+    "price": 3000.00,
+    "description": "Прочный и стильный футбольный мяч Adidas.",
+    "imageUrl": "/images/myach_adidas.jpg",
+    "categoryIds": [
+      16
+    ]
+  },
+  {
+    "name": "Носки Nike",
+    "price": 900.00,
+    "description": "Комфортные и износостойкие носки Nike.",
+    "imageUrl": "/images/noski_nike.jpg",
+    "categoryIds": [
+      8
+    ]
+  },
+  {
+    "name": "Комплект для плавания Speedo",
+    "price": 6800.00,
+    "description": "Комплект для плавания Speedo с очками и шапочкой.",
+    "imageUrl": "/images/komplekt_speedo.jpg",
+    "categoryIds": [
+      21
+    ]
+  },
+  {
+    "name": "Куртка для треккинга Marmot",
+    "price": 17000.00,
+    "description": "Водонепроницаемая куртка для треккинга Marmot.",
+    "imageUrl": "/images/kurtka_marmot.jpg",
+    "categoryIds": [
+      25
+    ]
+  },
+  {
+    "name": "Ролики Rollerblade",
+    "price": 10100.00,
+    "description": "Качественные ролики Rollerblade для активного отдыха.",
+    "imageUrl": "/images/roliki_rollerblade.jpg",
+    "categoryIds": [
+      23
+    ]
+  },
+  {
+    "name": "Тренажер для фитнеса Weider",
+    "price": 24000.00,
+    "description": "Многофункциональный тренажер для фитнеса Weider.",
+    "imageUrl": "/images/trenazher_weider.jpg",
+    "categoryIds": [
+      15
+    ]
+  },
+  {
+    "name": "Лыжи для горных лыж Volkl",
+    "price": 29000.00,
+    "description": "Высококачественные лыжи для горных лыж Volkl.",
+    "imageUrl": "/images/lyzhi_volkl.jpg",
+    "categoryIds": [
+      17
+    ]
+  },
+  {
+    "name": "Куртка для хоккея Bauer",
+    "price": 12000.00,
+    "description": "Прочная куртка для хоккея Bauer.",
+    "imageUrl": "/images/kurtka_bauer.jpg",
+    "categoryIds": [
+      18
+    ]
+  },
+  {
+    "name": "Палатка Hilleberg",
+    "price": 14500.00,
+    "description": "Просторная и легкая палатка Hilleberg для кемпинга.",
+    "imageUrl": "/images/palatka_hilleberg.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Лыжи для беговых лыж Fischer",
+    "price": 24000.00,
+    "description": "Легкие и прочные лыжи для беговых лыж Fischer.",
+    "imageUrl": "/images/lyzhi_fischer.jpg",
+    "categoryIds": [
+      20
+    ]
+  },
+  {
+    "name": "Кресло для кемпинга Therm-a-Rest",
+    "price": 9500.00,
+    "description": "Удобное и компактное кресло для кемпинга Therm-a-Rest.",
+    "imageUrl": "/images/kreslo_thermarest.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Сумка для спорта Adidas",
+    "price": 4200.00,
+    "description": "Просторная и стильная спортивная сумка Adidas.",
+    "imageUrl": "/images/sumka_adidas.jpg",
+    "categoryIds": [
+      7
+    ]
+  },
+  {
+    "name": "Комплект для пляжа Coleman",
+    "price": 3800.00,
+    "description": "Комплект для пляжа Coleman с надувным матрасом и зонтиком.",
+    "imageUrl": "/images/komplekt_coleman.jpg",
+    "categoryIds": [
+      22
+    ]
+  },
+  {
+    "name": "Толстовка Nike",
+    "price": 7100.00,
+    "description": "Теплая и стильная толстовка Nike для повседневной носки.",
+    "imageUrl": "/images/tolstovka_nike.jpg",
+    "categoryIds": [
+      1,
+      6
+    ]
+  },
+  {
+    "name": "Кеды Vans",
+    "price": 6000.00,
+    "description": "Комфортные и стильные кеды Vans для повседневной носки.",
+    "imageUrl": "/images/kedy_vans.jpg",
+    "categoryIds": [
+      2
+    ]
+  },
+  {
+    "name": "Легинсы Lululemon",
+    "price": 3500.00,
+    "description": "Эластичные и удобные легинсы Lululemon для занятий спортом.",
+    "imageUrl": "/images/leginsy_lululemon.jpg",
+    "categoryIds": [
+      4
+    ]
+  },
+  {
+    "name": "Палатка NEMO",
+    "price": 22000.00,
+    "description": "Легкая и надежная палатка NEMO для кемпинга.",
+    "imageUrl": "/images/palatka_nemo.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Футболка Reebok",
+    "price": 2600.00,
+    "description": "Качественная и удобная футболка Reebok для тренировок и отдыха.",
+    "imageUrl": "/images/futbolka_reebok.jpg",
+    "categoryIds": [
+      6
+    ]
+  },
+  {
+    "name": "Рюкзак Gregory",
+    "price": 10400.00,
+    "description": "Прочный и вместительный рюкзак Gregory для путешествий.",
+    "imageUrl": "/images/ryukzak_gregory.jpg",
+    "categoryIds": [
+      9,
+      25
+    ]
+  },
+  {
+    "name": "Массажер Theragun",
+    "price": 6300.00,
+    "description": "Электрический массажер Theragun для расслабления мышц.",
+    "imageUrl": "/images/massager_theragun.jpg",
+    "categoryIds": [
+      10
+    ]
+  },
+  {
+    "name": "Электросамокат Razor",
+    "price": 46000.00,
+    "description": "Мощный электросамокат Razor для городских поездок.",
+    "imageUrl": "/images/samokat_razor.jpg",
+    "categoryIds": [
+      11,
+      24
+    ]
+  },
+  {
+    "name": "Фонарь Black Diamond",
+    "price": 3100.00,
+    "description": "Компактный и яркий фонарь Black Diamond для активного отдыха.",
+    "imageUrl": "/images/fonar_black_diamond.jpg",
+    "categoryIds": [
+      12
+    ]
+  },
+  {
+    "name": "Кроссовки для бега Asics",
+    "price": 8300.00,
+    "description": "Высококачественные кроссовки Asics для бега.",
+    "imageUrl": "/images/krossovki_asics.jpg",
+    "categoryIds": [
+      2,
+      13
+    ]
+  },
+  {
+    "name": "Перчатки для бокса Twins",
+    "price": 4600.00,
+    "description": "Профессиональные перчатки для бокса Twins.",
+    "imageUrl": "/images/perchatki_twins.jpg",
+    "categoryIds": [
+      14
+    ]
+  },
+  {
+    "name": "Коврик для йоги Liforme",
+    "price": 3600.00,
+    "description": "Экологичный и нескользящий коврик для йоги Liforme.",
+    "imageUrl": "/images/yoga_mat_liforme.jpg",
+    "categoryIds": [
+      27
+    ]
+  },
+  {
+    "name": "Велосипед Merida",
+    "price": 43000.00,
+    "description": "Надежный и легкий велосипед Merida для велоспорта.",
+    "imageUrl": "/images/velosiped_merida.jpg",
+    "categoryIds": [
+      26
+    ]
+  },
+  {
+    "name": "Футбольный мяч Puma",
+    "price": 3100.00,
+    "description": "Прочный и стильный футбольный мяч Puma.",
+    "imageUrl": "/images/myach_puma.jpg",
+    "categoryIds": [
+      16
+    ]
+  },
+  {
+    "name": "Носки Reebok",
+    "price": 1000.00,
+    "description": "Комфортные и износостойкие носки Reebok.",
+    "imageUrl": "/images/noski_reebok.jpg",
+    "categoryIds": [
+      8
+    ]
+  },
+  {
+    "name": "Комплект для плавания Arena",
+    "price": 7000.00,
+    "description": "Комплект для плавания Arena с очками и шапочкой.",
+    "imageUrl": "/images/komplekt_arena.jpg",
+    "categoryIds": [
+      21
+    ]
+  },
+  {
+    "name": "Куртка для треккинга North Face",
+    "price": 18000.00,
+    "description": "Водонепроницаемая куртка для треккинга North Face.",
+    "imageUrl": "/images/kurtka_north_face.jpg",
+    "categoryIds": [
+      25
+    ]
+  },
+  {
+    "name": "Ролики K2",
+    "price": 10300.00,
+    "description": "Качественные ролики K2 для активного отдыха.",
+    "imageUrl": "/images/roliki_k2.jpg",
+    "categoryIds": [
+      23
+    ]
+  },
+  {
+    "name": "Тренажер для фитнеса Bowflex",
+    "price": 25000.00,
+    "description": "Многофункциональный тренажер для фитнеса Bowflex.",
+    "imageUrl": "/images/trenazher_bowflex.jpg",
+    "categoryIds": [
+      15
+    ]
+  },
+  {
+    "name": "Лыжи для горных лыж Atomic",
+    "price": 30000.00,
+    "description": "Высококачественные лыжи для горных лыж Atomic.",
+    "imageUrl": "/images/lyzhi_atomic.jpg",
+    "categoryIds": [
+      17
+    ]
+  },
+  {
+    "name": "Куртка для хоккея CCM",
+    "price": 12500.00,
+    "description": "Прочная куртка для хоккея CCM.",
+    "imageUrl": "/images/kurtka_ccm.jpg",
+    "categoryIds": [
+      18
+    ]
+  },
+  {
+    "name": "Палатка Marmot",
+    "price": 15000.00,
+    "description": "Просторная и легкая палатка Marmot для кемпинга.",
+    "imageUrl": "/images/palatka_marmot.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Лыжи для беговых лыж Rossignol",
+    "price": 25000.00,
+    "description": "Легкие и прочные лыжи для беговых лыж Rossignol.",
+    "imageUrl": "/images/lyzhi_rossignol.jpg",
+    "categoryIds": [
+      20
+    ]
+  },
+  {
+    "name": "Кресло для кемпинга Trekology",
+    "price": 10000.00,
+    "description": "Удобное и компактное кресло для кемпинга Trekology.",
+    "imageUrl": "/images/kreslo_trekology.jpg",
+    "categoryIds": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "Сумка для спорта Reebok",
+    "price": 4400.00,
+    "description": "Просторная и стильная спортивная сумка Reebok.",
+    "imageUrl": "/images/sumka_reebok.jpg",
+    "categoryIds": [
+      7
+    ]
+  },
+  {
+    "name": "Комплект для пляжа Intex",
+    "price": 4000.00,
+    "description": "Комплект для пляжа Intex с надувным матрасом и зонтиком.",
+    "imageUrl": "/images/komplekt_intex.jpg",
+    "categoryIds": [
+      22
+    ]
+  }
+]
